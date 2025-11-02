@@ -1,4 +1,7 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20there%20👋&fontSize=90)
+
+![](https://tenor.com/AkSv.gif)
+
 
 <!--
 **jjHombre/jjHombre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
