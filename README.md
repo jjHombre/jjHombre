@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20there%20👋&fontSize=90)
 
-![](https://tenor.com/AkSv.gif)
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdpN3R1Y2dyNDdnYTNyY3IzYjh4N3J2OTIwbndzMXpoMnpscDYyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRQBXSCnEFJIuxktnw/giphy.gif" />
+</p>
+
+<h2 align="center"> Get in touch with me ! </h2>
 
 
 <!--
