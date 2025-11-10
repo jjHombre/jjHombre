@@ -6,6 +6,42 @@
 
 <h2 align="center"> Get in touch with me ! </h2>
 
+<h2 align="center"> A little about me ! </h2>
+
+```
+name: Julien Andriantsoa
+located_in: Paris, France
+current_job: DevOps Engineer (In Transition)
+education:
+  [
+    "Master's in Electrical Engineering - CNAM",
+    "DUT in Electrical Engineering and Industrial Computing",
+    "Google Cybersecurity Specialization",
+    "Lean Six Sigma Black Belt",
+  ]
+company: BCS Automotive Interface Solutions
+fields_of_interests:
+  [
+    "DevOps",
+    "Cloud Native Infrastructure",
+    "Kubernetes Orchestration",
+    "CI/CD Automation",
+    "Security & Observability",
+    "Infrastructure as Code",
+  ]
+technical_background:
+  [
+    "10+ Years in Complex Systems Engineering",
+    "Quality Engineer - Software & Electronics",
+    "Critical Incident Management",
+    "Solutions Engineer - Technical Partnerships",
+    "Electrical Systems Architect",
+  ]
+  
+currently_learning: ["Advanced Kubernetes patterns", "Terraform", "GitOps with ArgoCD"]
+2025 Goals: ["Land first DevOps role", "Contribute to CNCF open source projects", "Build production-grade homelab"]
+hobbies: ["Homelab tinkering", "Linux customization (Sway/Hyprland)", "Hardware revival projects", "Critical thinking challenges"]
+```
 
 <!--
 **jjHombre/jjHombre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
