@@ -17,7 +17,7 @@
 ```
 name: Julien Andriantsoa
 located_in: Paris, France
-current_job: DevOps Engineer (In Transition)
+current_job: IT Production & Application Support Engineer
 education:
   [
     "Master's in Electrical Engineering - CNAM",
@@ -25,7 +25,7 @@ education:
     "Google Cybersecurity Specialization",
     "Lean Six Sigma Black Belt",
   ]
-company: BCS Automotive Interface Solutions
+company: BNP Paribas Real Estate via Deodis
 fields_of_interests:
   [
     "DevOps",
@@ -44,9 +44,8 @@ technical_background:
     "Electrical Systems Architect",
   ]
   
-currently_learning: ["Advanced Kubernetes patterns", "Terraform", "GitOps with ArgoCD"]
-2025 Goals: ["Land first DevOps role", "Contribute to CNCF open source projects", "Build production-grade homelab"]
-hobbies: ["Homelab tinkering", "Linux customization (Sway/Hyprland)", "Hardware revival projects", "Critical thinking challenges"]
+currently_learning: ["Advanced Kubernetes patterns", "Terraform", "GitOps with Flux & ArgoCD"]
+hobbies: ["Homelab tinkering", "Linux customization (Sway/Hyprland)", "Hardware revival projects"]
 ```
 <h2 align="center"> Some of the tech I've tinkered with </h2>
 
